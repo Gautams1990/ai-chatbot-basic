@@ -16,8 +16,10 @@ streamlit run app.py
 - Python
 - Streamlit
 
-## 📸 Screenshot
-AI-Chatbot.jpg
+
+## 📸 Output Screenshot
+
+![AI Chatbot Output](AI-Chatbot.jpg)
 
 ## 🧠 What I Learned
 - Streamlit basics
